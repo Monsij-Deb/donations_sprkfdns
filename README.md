@@ -1,4 +1,4 @@
-payment-gatewayMD.github.io
+
 GRIP@THE SPARKS FOUNDATION
 
 TASK #3: Payment Gateway Integration
